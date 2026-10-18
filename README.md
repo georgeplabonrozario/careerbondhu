@@ -10,7 +10,7 @@
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-[**Open the bot**](BOT_LINK) &nbsp;|&nbsp; [**Landing page**](LANDING_PAGE_LINK)
+[**Open the bot**](https://t.me/CareerBondhuBot) &nbsp;|&nbsp; [**Landing page**](https://careerbondhu.netlify.app/)
 
 </div>
 
